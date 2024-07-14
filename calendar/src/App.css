@@ -17,6 +17,7 @@ body{
   width: 400px;
   padding: 30px;
   border-radius: 10px;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
 }
 
 hr{
@@ -102,6 +103,7 @@ select{
 
 .current{
   background-color: #1294F2;
+  color: #fff;
 }
 
 .date:hover{
